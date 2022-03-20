@@ -2,8 +2,8 @@
 Termux progressbar animation library.
 Working with python3, it brings 3 types of progressbar:
 
-prog1 is for short bar.
-prog2 is for medium bar.
+prog1 is for short bar,
+prog2 is for medium bar,
 prog3 is for large bar (original).
 
 # Usage
